@@ -2,20 +2,20 @@
 
 This repository contains codes for the 8051 microcontroller, for the KTU S5 Electrical Microprocessor Lab. These codes are written to be compatible with the Keil Microvision software, enabling easy simulation and testing of the microcontroller programs.
 
-##Requirements
+## Requirements
 Microcontroller: 8051
 Software: Keil µVision (Microvision) IDE
 Hardware (optional): 8051 development board for testing on physical hardware
 Contents
 The repository includes the following assembly programs for the 8051 microcontroller:
 
-##Basic Programs:
+## Basic Programs:
 
 LED Blinking
 Delay generation
 I/O port manipulation
 
-##Arithmetic Operations:
+## Arithmetic Operations:
 
 Addition(8 Bit,16bit,BCD)
 Subtraction 
@@ -24,13 +24,13 @@ Division
 Binary to BCD conversion
 BCD to binary conversion
 
-##COUNTERS
+## COUNTERS
 BCD DOWN
 HEX DOWN
 
 
 
-##How to Use
+## How to Use
 Open Keil µVision: Launch the Keil µVision IDE.
 Create a New Project:
 Go to Project > New µVision Project.
